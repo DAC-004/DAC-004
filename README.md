@@ -20,6 +20,15 @@ I build applications that connect operational workflows, business data and AI-as
 
 ## Selected applications
 
+| Application | What it does | Audience / context | Explore |
+| --- | --- | --- | --- |
+| **HealthCore** | Connected AI workflows | Simulated healthcare organization; capstone | [Source](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz) · [Live component only](https://talent-pipeline-tracker.vercel.app/) |
+| **QuoteFlow** | Customer requests into reviewed quotations | Sales and operations; consulting use | [Public showcase](https://github.com/DAC-004/quoteflow-showcase) |
+| **JobFit Radar** | Explainable job research and review | Personal job research | [Public showcase](https://github.com/DAC-004/jobfit-radar-showcase) |
+| **ERP Nexus** | Connected client support and billing | Consulting operations | [Public showcase](https://github.com/DAC-004/erp-nexus-showcase) |
+| **CLEP Mathematics Prep** | Practice, mastery tracking and spaced review | Students preparing for the CLEP exam | [Showcase](https://github.com/DAC-004/clep-mathematics-showcase) · [Landing page; approved access required](https://clepmathexamprep.vercel.app/) |
+| **POD-App** | Digital proof of delivery | Logistics and document automation | [Public source; no sandbox demo](https://github.com/danielcruz-glitch/pod-app) |
+
 ### HealthCore
 
 **Connected AI workflows for a simulated healthcare organization**
