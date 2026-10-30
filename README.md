@@ -91,6 +91,10 @@ My background includes leading Epicor BisTrack implementation with cross-departm
 - **Application development:** Python, TypeScript, JavaScript, React, Next.js, FastAPI, REST APIs and Supabase.
 - **AI application workflows:** structured LLM output, retrieval, tool integration, validation and human review. Implementation depth varies by project; each showcase identifies its actual stack and scope.
 
+## Outside of tech
+
+Outside of tech, I’m a baseball fan and dog owner. My wife and I enjoy exploring the country in search of cherry blossoms.
+
 ---
 
 <p align="center">Based in Bronx, New York. Fluent in English and Spanish.</p>
