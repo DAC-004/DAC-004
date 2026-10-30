@@ -2,6 +2,14 @@
 
 <p align="center"><strong>AI Automation Engineer | ERP &amp; Business Systems | LLM Applications | Python, SQL &amp; TypeScript</strong></p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="20" height="20" alt="Python icon"> Python &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="20" height="20" alt="TypeScript icon"> TypeScript &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript icon"> JavaScript &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="20" height="20" alt="React icon"> React &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="20" height="20" alt="FastAPI icon"> FastAPI
+</p>
+
 I build applications that connect operational workflows, business data and AI-assisted decision support. My portfolio spans business services, healthcare simulations, employment research, education and logistics.
 
 <p align="center">
