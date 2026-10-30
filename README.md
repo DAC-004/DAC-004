@@ -5,9 +5,9 @@
 I build applications that connect operational workflows, business data and AI-assisted decision support. My portfolio spans business services, healthcare simulations, employment research, education and logistics.
 
 <p align="center">
-  <a href="#selected-applications">Selected applications</a> ·
-  <a href="#business-systems-experience">Business systems experience</a> ·
-  <a href="#technical-focus">Technical focus</a>
+  <a href="#user-content-selected-applications">Selected applications</a> ·
+  <a href="#user-content-business-systems-experience">Business systems experience</a> ·
+  <a href="#user-content-technical-focus">Technical focus</a>
 </p>
 
 ## Selected applications
