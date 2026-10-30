@@ -93,7 +93,7 @@ My background includes leading Epicor BisTrack implementation with cross-departm
 
 ## Outside of tech
 
-Outside of tech, I’m a baseball fan and dog owner. My wife and I enjoy exploring the country in search of Cherry Blossoms.
+Outside of tech, I’m a baseball fan and dog owner. My wife and I enjoy exploring the country in search of cherry blossoms.
 
 ---
 
