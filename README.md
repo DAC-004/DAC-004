@@ -47,7 +47,7 @@ An AI-assisted consulting application that structures customer requests, support
 
 ### [JobFit Radar](https://github.com/DAC-004/jobfit-radar-showcase)
 
-**Project dates: May 2026 – May 2026**
+**Project start: May 2026**
 
 **Explainable job research and review**
 
@@ -75,7 +75,7 @@ An education application combining lessons, practice, mastery tracking and space
 
 ### [POD-App](https://github.com/danielcruz-glitch/pod-app)
 
-**Project dates: April 2026 – May 2026**
+**Project start: April 2026**
 
 **Digital proof of delivery**
 
