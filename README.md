@@ -91,6 +91,12 @@ My background includes leading Epicor BisTrack implementation with cross-departm
 - **Application development:** Python, TypeScript, JavaScript, React, Next.js, FastAPI, REST APIs and Supabase.
 - **AI application workflows:** structured LLM output, retrieval, tool integration, validation and human review. Implementation depth varies by project; each showcase identifies its actual stack and scope.
 
+## Education and credentials
+
+**AI Engineer certificate, 4Geeks Academy** · 225 hours · Certificate dated November 2, 2026. AI Engineering program completed October 2026.
+
+[Verify certificate](https://certificate.4geeks.com/8685a2062f72957669fea1e7911b680c02582bee)
+
 ## Outside of tech
 
 Outside of tech, I’m a baseball fan and dog owner. My wife and I enjoy exploring the country in search of cherry blossoms.
