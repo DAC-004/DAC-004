@@ -22,14 +22,14 @@ I build applications that connect operational workflows, business data and AI-as
 
 | Application | What it does | Audience / context | Explore |
 | --- | --- | --- | --- |
-| **HealthCore** | Connected AI workflows | Simulated healthcare organization; capstone | [Source](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz) · [Live component only](https://talent-pipeline-tracker.vercel.app/) |
-| **QuoteFlow** | Customer requests into reviewed quotations | Sales and operations; consulting use | [Public showcase](https://github.com/DAC-004/quoteflow-showcase) |
-| **JobFit Radar** | Explainable job research and review | Personal job research | [Public showcase](https://github.com/DAC-004/jobfit-radar-showcase) |
-| **ERP Nexus** | Connected client support and billing | Consulting operations | [Public showcase](https://github.com/DAC-004/erp-nexus-showcase) |
-| **CLEP Mathematics Prep** | Practice, mastery tracking and spaced review | Students preparing for the CLEP exam | [Showcase](https://github.com/DAC-004/clep-mathematics-showcase) · [Landing page; approved access required](https://clepmathexamprep.vercel.app/) |
-| **POD-App** | Digital proof of delivery | Logistics and document automation | [Public source; no sandbox demo](https://github.com/danielcruz-glitch/pod-app) |
+| **[HealthCore](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz)** | Connected AI workflows | Simulated healthcare organization; capstone | [Source](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz) · [Live component only](https://talent-pipeline-tracker.vercel.app/) |
+| **[QuoteFlow](https://github.com/DAC-004/quoteflow-showcase)** | Customer requests into reviewed quotations | Sales and operations; consulting use | [Public showcase](https://github.com/DAC-004/quoteflow-showcase) |
+| **[JobFit Radar](https://github.com/DAC-004/jobfit-radar-showcase)** | Explainable job research and review | Personal job research | [Public showcase](https://github.com/DAC-004/jobfit-radar-showcase) |
+| **[ERP Nexus](https://github.com/DAC-004/erp-nexus-showcase)** | Connected client support and billing | Consulting operations | [Public showcase](https://github.com/DAC-004/erp-nexus-showcase) |
+| **[CLEP Mathematics Prep](https://github.com/DAC-004/clep-mathematics-showcase)** | Practice, mastery tracking and spaced review | Students preparing for the CLEP exam | [Showcase](https://github.com/DAC-004/clep-mathematics-showcase) · [Landing page; approved access required](https://clepmathexamprep.vercel.app/) |
+| **[POD-App](https://github.com/danielcruz-glitch/pod-app)** | Digital proof of delivery | Logistics and document automation | [Public source; no sandbox demo](https://github.com/danielcruz-glitch/pod-app) |
 
-### HealthCore
+### [HealthCore](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz)
 
 **Connected AI workflows for a simulated healthcare organization**
 
@@ -37,7 +37,7 @@ A full-stack capstone connecting operational workspaces, knowledge retrieval and
 
 [Explore the source](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz) · [Read the runtime architecture](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz/blob/main/docs/campaign/CAMPAIGN_RUNTIME.md) · [View the Talent Pipeline component](https://talent-pipeline-tracker.vercel.app/) (one component, not the complete system)
 
-### QuoteFlow
+### [QuoteFlow](https://github.com/DAC-004/quoteflow-showcase)
 
 **From customer request to reviewed quotation**
 
@@ -45,7 +45,7 @@ An AI-assisted consulting application that structures customer requests, support
 
 [Read the project showcase](https://github.com/DAC-004/quoteflow-showcase)
 
-### JobFit Radar
+### [JobFit Radar](https://github.com/DAC-004/jobfit-radar-showcase)
 
 **Explainable job research and review**
 
@@ -53,7 +53,7 @@ Collects opportunities, reduces duplicate listings and combines filtering with s
 
 [Read the project showcase](https://github.com/DAC-004/jobfit-radar-showcase)
 
-### ERP Nexus
+### [ERP Nexus](https://github.com/DAC-004/erp-nexus-showcase)
 
 **Connected client support and billing**
 
@@ -61,7 +61,7 @@ Centralizes service requests, notifications, approved work and invoicing so cons
 
 [Read the project showcase](https://github.com/DAC-004/erp-nexus-showcase)
 
-### CLEP Mathematics Prep
+### [CLEP Mathematics Prep](https://github.com/DAC-004/clep-mathematics-showcase)
 
 **A structured path from practice to review**
 
@@ -71,7 +71,7 @@ An education application combining lessons, practice, mastery tracking and space
 
 [Read the project showcase](https://github.com/DAC-004/clep-mathematics-showcase)
 
-### POD-App
+### [POD-App](https://github.com/danielcruz-glitch/pod-app)
 
 **Digital proof of delivery**
 
