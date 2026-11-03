@@ -47,6 +47,8 @@ An AI-assisted consulting application that structures customer requests, support
 
 ### [JobFit Radar](https://github.com/DAC-004/jobfit-radar-showcase)
 
+**Project dates: May 2026 – May 2026**
+
 **Explainable job research and review**
 
 Collects opportunities, reduces duplicate listings and combines filtering with structured LLM analysis to explain alignment with a candidate's background. A personal application; fit assessments support human judgment, not predictions of hiring outcomes.
@@ -72,6 +74,8 @@ An education application combining lessons, practice, mastery tracking and space
 [Read the project showcase](https://github.com/DAC-004/clep-mathematics-showcase)
 
 ### [POD-App](https://github.com/danielcruz-glitch/pod-app)
+
+**Project dates: April 2026 – May 2026**
 
 **Digital proof of delivery**
 
