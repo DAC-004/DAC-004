@@ -47,7 +47,7 @@ An AI-assisted consulting application that structures customer requests, support
 
 ### [JobFit Radar](https://github.com/DAC-004/jobfit-radar-showcase)
 
-**Project start: May 2026**
+**Project dates: May 2026 – May 2026**
 
 **Explainable job research and review**
 
