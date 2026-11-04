@@ -75,7 +75,7 @@ An education application combining lessons, practice, mastery tracking and space
 
 ### [POD-App](https://github.com/danielcruz-glitch/pod-app)
 
-**Project start: April 2026**
+**Project dates: April 2026 – May 2026**
 
 **Digital proof of delivery**
 
