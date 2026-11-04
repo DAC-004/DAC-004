@@ -31,6 +31,8 @@ I build applications that connect operational workflows, business data and AI-as
 
 ### [HealthCore](https://github.com/DAC-004/ai-engineering-company-project-monorepo-DanielCruz)
 
+**Project dates: June 2026 – November 2026**
+
 **Connected AI workflows for a simulated healthcare organization**
 
 A full-stack capstone connecting operational workspaces, knowledge retrieval and agent-assisted workflows, with human review for consequential actions. Built individually through 4Geeks Academy.
@@ -64,6 +66,8 @@ Centralizes service requests, notifications, approved work and invoicing so cons
 [Read the project showcase](https://github.com/DAC-004/erp-nexus-showcase)
 
 ### [CLEP Mathematics Prep](https://github.com/DAC-004/clep-mathematics-showcase)
+
+**Last project pull request opened: September 28, 2026**
 
 **A structured path from practice to review**
 
