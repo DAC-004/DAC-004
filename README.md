@@ -41,6 +41,8 @@ A full-stack capstone connecting operational workspaces, knowledge retrieval and
 
 ### [QuoteFlow](https://github.com/DAC-004/quoteflow-showcase)
 
+**Project dates: April 2026 – May 2026**
+
 **From customer request to reviewed quotation**
 
 An AI-assisted consulting application that structures customer requests, supports catalog matching and turns editable drafts into professional quotes after human approval. Used in my consulting work; source code and business records are not included in this showcase.
