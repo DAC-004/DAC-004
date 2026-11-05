@@ -61,6 +61,8 @@ Collects opportunities, reduces duplicate listings and combines filtering with s
 
 ### [ERP Nexus](https://github.com/DAC-004/erp-nexus-showcase)
 
+**Project dates: April 2026 – May 2026**
+
 **Connected client support and billing**
 
 Centralizes service requests, notifications, approved work and invoicing so consulting operations can be managed across desktop computers and mobile devices. Used in my consulting work; client information and source remain private.
@@ -69,7 +71,7 @@ Centralizes service requests, notifications, approved work and invoicing so cons
 
 ### [CLEP Mathematics Prep](https://github.com/DAC-004/clep-mathematics-showcase)
 
-**Last project pull request opened: September 28, 2026**
+**Project dates: September 2026 – September 2026**
 
 **A structured path from practice to review**
 
